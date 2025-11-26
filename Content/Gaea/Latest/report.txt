@@ -1,0 +1,52 @@
+
+──────────────────────────────────────────────────────────────────────────────────────────  GAEA BUILD SWARM  2.2.3.2 ──
+
+                                                                       
+          Filename:  │ C:/Users/Raamxie/Downloads/VR2.terrain          
+    Build Location:  │ C:\Users\Raamxie\Documents\Gaea\Builds\VR2\005  
+        Build Type:  │ Standard Cropped to Tiles                       
+  Build Resolution:  │ 4096 × 4096                                     
+     Build Profile:  │ None / Last Saved Settings                      
+             Nodes:  │ 29 to build                                     
+                     │ 04 to export                                    
+             Tiles:  │ 4                                               
+                                                                       
+
+──────────────────────────────────────────────────────────────────────────────────────────  GAEA BUILD SWARM  2.2.3.2 ──
+
+                                                                       
+          Filename:  │ C:/Users/Raamxie/Downloads/VR2.terrain          
+    Build Location:  │ C:\Users\Raamxie\Documents\Gaea\Builds\VR2\005  
+        Build Type:  │ Standard Cropped to Tiles                       
+  Build Resolution:  │ 4096 × 4096                                     
+     Build Profile:  │ None / Last Saved Settings                      
+             Nodes:  │ 29 to build                                     
+                     │ 04 to export                                    
+             Tiles:  │ 4                                               
+                                                                       
+
+──────────────────────────────────────────────────────────────────────────────────────────────────────── Build Report ──
+
+              Build Results                               Statistics                
+                                                                                    
+          Result: │ Success                       Unreal │ 0:00:00.284              
+      Resolution: │ 4096                          Unreal │ 0:00:00.154              
+      Node Count: │ 29                            Unreal │ 0:00:00.118              
+      Start Time: │ 11/26/2025 22:24:52      Transform3D │ 0:00:00.74               
+        End Time: │ 11/26/2025 22:25:50           Unreal │ 0:00:00.169              
+        Duration: │ 00:00:57.9530483                Snow │ 0:00:01.292              
+  Non-Build Time: │ 00:00:00.8370482         Transform3D │ 0:00:05.628              
+                                                 Combine │ 0:00:00.145              
+                                                 Combine │ 0:00:00.194              
+                                             Transform3D │ 0:00:00.72               
+                                                  Height │ 0:00:00.261              
+                                                    Lake │ 0:00:10.13               
+                                               Snowfield │ 0:00:36.482              
+                                                 RockMap │ 0:00:00.289              
+                                                  Adjust │ 0:00:00.24               
+                                                    Lake │ 0:00:00.121              
+                                                         │                          
+                                                 Fastest │ Mountain @ 0:00:00       
+                                                 Slowest │ Snowfield @ 0:00:36.482  
+                                                                                    
+                                            * nodes that took <100ms are excluded.  
